@@ -1,0 +1,4 @@
+javac RahmanM_BlackJack.java
+pause
+java RahmanM_BlackJack
+pause
